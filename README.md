@@ -2324,7 +2324,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Reach the owner of a newly formed business the morning after the state posts it, from the state's own filing.
 - [gtm.help](https://gtm.help) `https://gtm.help/mcp`
   [![gtm.help MCP connector](https://glama.ai/mcp/connectors/help.gtm/gtm-help/badges/score.svg)](https://glama.ai/mcp/connectors/help.gtm/gtm-help)
-  🔐 - Turn a website into ranked growth plays, find Reddit, LinkedIn and X threads to answer, and track shipped work.
+  🔓 - Turn a website into ranked growth plays, find Reddit, LinkedIn and X threads to answer, and track shipped work.
 - [HarborRank](https://harborrank.com/features/mcp) `https://app.harborrank.com/mcp`
   [![HarborRank MCP connector](https://glama.ai/mcp/connectors/com.harborrank/harborrank/badges/score.svg)](https://glama.ai/mcp/connectors/com.harborrank/harborrank)
   🔐 - Keyword metrics, live Google SERPs, backlinks, rank tracking, site audits and read-only Search Console data.
